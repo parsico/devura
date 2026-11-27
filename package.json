@@ -1,0 +1,9 @@
+{
+  "name": "devura-public",
+  "version": "0.3.28",
+  "private": true,
+  "description": "Devura distribution, documentation and standalone UI preview",
+  "scripts": {
+    "preview": "python -m http.server 8080 --directory examples/desktop-preview"
+  }
+}
