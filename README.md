@@ -72,7 +72,7 @@ Screenshots use a local demonstration workspace. Account status and service avai
 | :---: | :---: |
 | ![Devura proxy profiles and network subscription settings](docs/images/network-profiles.png) | ![AI project conversation with file references and message composer](docs/images/chat.png) |
 
-<p align="center"><a href="docs/SCREENSHOTS.md">View the full screenshot gallery ?</a></p>
+<p align="center"><a href="docs/SCREENSHOTS.md">View the full screenshot gallery &nearr;</a></p>
 
 ## Get started
 
