@@ -60,11 +60,27 @@
 
 ## نگاهی به برنامه
 
+تصاویر با یک پروژهٔ نمایشی محلی گرفته شده‌اند؛ وضعیت حساب‌ها و امکانات هر سرویس به تنظیمات شما بستگی دارد.
+
 </div>
 
-| گفتگو و ابزارها | ویرایشگر و بررسی تغییرات |
+| ویرایشگر کد و IntelliSense | اتصال حساب ایجنت‌ها |
 | :---: | :---: |
-| ![گفتگو و ترمینال](docs/images/chat.png) | ![ویرایشگر و تغییرات](docs/images/code-review.png) |
+| ![ویرایشگر کد دوورا با رنگ‌بندی TypeScript و ابزارهای پروژه](docs/images/code-editor.png) | ![اتصال Codex و Claude Code و Antigravity و GitHub Copilot در دوورا](docs/images/coding-accounts.png) |
+
+| مارکت‌پلیس پلاگین‌ها | مارکت‌پلیس اسکیل‌ها |
+| :---: | :---: |
+| ![مارکت‌پلیس پلاگین‌های دوورا و ابزارهای MCP](docs/images/plugin-marketplace.png) | ![مرور و نصب اسکیل‌های skills.sh برای پروژه](docs/images/skills-marketplace.png) |
+
+| تم‌ها و شخصی‌سازی | ارائه‌دهندگان و مدل‌ها |
+| :---: | :---: |
+| ![تنظیمات تم و شخصی‌سازی محیط دوورا](docs/images/appearance.png) | ![تنظیم ارائه‌دهندگان و مدل‌های هوش مصنوعی در دوورا](docs/images/model-providers.png) |
+
+| شبکه و پروکسی | گفتگوی پروژه |
+| :---: | :---: |
+| ![مدیریت پروکسی و اشتراک‌های شبکهٔ دوورا](docs/images/network-profiles.png) | ![گفتگوی ایجنت با لینک فایل‌های پروژه و ورودی پیام](docs/images/chat.png) |
+
+<p align="center"><a href="docs/SCREENSHOTS.fa.md">مشاهدهٔ گالری کامل تصاویر ↗</a></p>
 
 <div dir="rtl">
 

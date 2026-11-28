@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/brand.png" width="88" alt="Devura"></p>
 <h1 align="center">Devura</h1>
 <p align="center"><strong>Your code. Your pace. Devura.</strong></p>
-<p align="center">Your models, projects, editor, terminal and browser in one AI coding workspace.</p>
+<p align="center">An AI coding workspace for Windows: your models, code editor, terminal and browser in one place.</p>
 
 <p align="center">
 <a href="https://github.com/parsico/devura/releases/download/v0.3.28/Devura-Setup-0.3.28.exe"><img src="docs/badges/windows-download.svg" alt="Download for Windows"></a>
@@ -28,7 +28,7 @@
 | | |
 | --- | --- |
 | **Projects & conversations** | Keep your folders, chats and working context together. |
-| **Coding accounts & models** | Connect coding accounts or configure your own model providers. |
+| **Coding accounts & models** | Connect Codex, Claude Code, Antigravity or GitHub Copilot, or configure your own model providers. |
 | **Editor, terminal & browser** | Inspect files, edit code, run commands and verify web output. |
 | **Activity & background jobs** | Follow Agent actions, build output and real task progress. |
 | **Skills & plugins** | Add focused workflows and connected tools to your projects. |
@@ -54,9 +54,25 @@ Run **Devura-Setup-0.3.28.exe** and follow the setup steps. Existing Windows ins
 
 ## A closer look
 
-| Conversations & tools | Editor & code review |
+Screenshots use a local demonstration workspace. Account status and service availability depend on your setup.
+
+| Code editor & IntelliSense | Coding Agent accounts |
 | :---: | :---: |
-| ![Chat and terminal](docs/images/chat.png) | ![Editor and changes](docs/images/code-review.png) |
+| ![Devura TypeScript code editor with syntax highlighting and project tools](docs/images/code-editor.png) | ![Codex, Claude Code, Antigravity and GitHub Copilot account integrations](docs/images/coding-accounts.png) |
+
+| Plugin Marketplace | Skills Marketplace |
+| :---: | :---: |
+| ![Devura plugin marketplace with MCP-powered developer tools](docs/images/plugin-marketplace.png) | ![Discover and install project skills from skills.sh](docs/images/skills-marketplace.png) |
+
+| Themes & personalization | Model providers |
+| :---: | :---: |
+| ![Devura desktop themes and appearance settings](docs/images/appearance.png) | ![AI model provider configuration in Devura](docs/images/model-providers.png) |
+
+| Network & proxy profiles | Project conversations |
+| :---: | :---: |
+| ![Devura proxy profiles and network subscription settings](docs/images/network-profiles.png) | ![AI project conversation with file references and message composer](docs/images/chat.png) |
+
+<p align="center"><a href="docs/SCREENSHOTS.md">View the full screenshot gallery ?</a></p>
 
 ## Get started
 
